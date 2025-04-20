@@ -1,0 +1,11 @@
+Text,Sentiment
+I love this product! It's amazing.,Positive
+This is the worst experience I've ever had.,Negative
+"The movie was okay, not great but not terrible either.",Neutral
+"Absolutely fantastic service, highly recommend!",Positive
+I'm very disappointed with the quality.,Negative
+"It's just an average day, nothing special.",Neutral
+The staff was incredibly helpful and friendly.,Positive
+"I wouldn't buy this again, terrible quality.",Negative
+The event was neither exciting nor boring.,Neutral
+I'm so happy with my purchase!,Positive
